@@ -1,4 +1,4 @@
-= turing-java-proxy
+= Turing AI Java Proxy
 
 WAR java file to expose the Turing API on the site.
 
