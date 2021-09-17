@@ -1,0 +1,12 @@
+== turing-java-proxy
+WAR java file to expose the Turing API on the site.
+
+=== Run on Development
+
+```shell
+mvnw spring-boot:run
+```
+
+=== URL
+
+Sample Site at http://localhost:8080/__tur/sn/Sample/search?q=*
