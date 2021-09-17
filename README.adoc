@@ -1,15 +1,17 @@
-== turing-java-proxy
+= turing-java-proxy
 WAR java file to expose the Turing API on the site.
 
-=== Run on Development
+== Run on Development
 
 ```shell
 mvnw spring-boot:run
 ```
 
-=== URL
+== URL
 
 Sample Site at http://localhost:8080/__tur/sn/Sample/search?q=*
+
+== Parameters
 
 .Semantic Navigation Rest API Get Attributes
 [%header,cols=4*] 
